@@ -1,0 +1,16 @@
+header {
+  height: 25vh;
+  background-color: pink;
+}
+#title_image {
+  height: 25vh;
+  background-color: orange;
+}
+section {
+  height: 25vh;
+  background-color: lightgreen;
+}
+footer {
+  height: 25vh;
+  background-color: lightblue;
+}
